@@ -5,4 +5,11 @@
 ##### This is a H5 header
 ###### This is a H6 header
 
+```golang
+func (s ServiceMain) Probe(count int) error {
+  return nil
+} 
+```
+
+
 ![Image of Octodex](https://octodex.github.com/images/privateinvestocat.jpg)
