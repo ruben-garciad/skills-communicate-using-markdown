@@ -11,5 +11,8 @@ func (s ServiceMain) Probe(count int) error {
 } 
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ![Image of Octodex](https://octodex.github.com/images/privateinvestocat.jpg)
